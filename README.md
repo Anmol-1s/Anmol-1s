@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anmolsonij@gmail.com**
 
-- 📄 Know about my experiences [AnmolSoni_Resume](Anmol_Resume.pdf)
+- 📄 Know about my experiences [AnmolSoni_Resume]("C:\Users\hp\Desktop\Anmol_Resume.pdf")
 
 - ⚡ Fun fact **I play chess, which means my brain is always three steps ahead... unless it's about remembering where I left my keys!" 😄♟️**
 

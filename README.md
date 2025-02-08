@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Framework (Spring boot)**
 
-- 💬 Ask me about **Java , JDBC , C++, and SQL (MySQL). My expertise includes coursework in Object-Oriented Programming (OOPS),). My expertise includes coursework in Object-Oriented Programming (OOPS),Database Management System(DBMS), Computer Network(CN),Software Development Life Cycle(SDLC)**
+- 💬 Ask me about **Java , JDBC ,JSP,Servlet C++, and SQL (MySQL). My expertise includes coursework in Object-Oriented Programming (OOPS),). My expertise includes coursework in Object-Oriented Programming (OOPS),Database Management System(DBMS), Computer Network(CN),Software Development Life Cycle(SDLC)**
 **
 
 - 📫 How to reach me **anmolsonij@gmail.com**

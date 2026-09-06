@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anmol Soni</h1>
 <h3 align="center">💻 Passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Java Framework (Spring boot)**
-
-- 💬 Ask me about **Java, JDBC, JSP, Servlet, C++, and SQL (MySQL). My expertise includes coursework in Object-Oriented Programming (OOPS),). My expertise includes coursework in Object-Oriented Programming (OOPS),Database Management System(DBMS), Computer Network(CN),Software Development Life Cycle(SDLC)**
-**
+- 🌱 I’m currently learning Data Analytics**
+- 💬 Ask me about SQL, Excel, Power BI, and Tableau**. I’m interested in **data cleaning, data analysis, data visualization, dashboard creation, and reporting** using **Excel, Power BI, and Tableau**.
+- Additional Skills- Java, Java database connectivity, Gen AI
 
 - 📫 How to reach me **anmolsonij@gmail.com**
 
